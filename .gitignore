@@ -132,13 +132,13 @@ env.bak/
 venv.bak/
 
 # Files
-.csv
-.txt
-.pdf
-.zip
-.gzip
-.json
-.xml
+*.csv
+*.txt
+*.pdf
+*.zip
+*.gzip
+*.json
+*.xml
 
 
 # Spyder project settings
